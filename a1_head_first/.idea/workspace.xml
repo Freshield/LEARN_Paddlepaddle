@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23bea1dc-ff4e-4ab7-a084-d5c8c7351f11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/a1_head_first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/a1_head_first.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b4_line_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/b4_line_model.py" afterDir="false" />
-    </list>
+    <list default="true" id="23bea1dc-ff4e-4ab7-a084-d5c8c7351f11" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +46,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b4_line_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="645">
               <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#505#533#0" expanded="true" />
@@ -241,12 +236,12 @@
       <workItem from="1578882101117" duration="27000" />
       <workItem from="1578882135552" duration="40000" />
       <workItem from="1578882305504" duration="324000" />
-      <workItem from="1578883207107" duration="3354000" />
+      <workItem from="1578883207107" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7019000" />
+    <option name="totallyTimeSpent" value="7645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="395" width="1857" height="1092" extended-state="6" />
@@ -256,7 +251,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43410042" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43410042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b4_line_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="645">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#505#533#0" expanded="true" />
